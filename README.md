@@ -26,7 +26,7 @@ The analysis encompasses several key steps:
 To replicate the analysis, follow these steps:
 
 1. Clone this repository to your local machine.
-2. [Download the dataset](https://physionet.org/content/ecg-arrhythmia/1.0.0/) from the provided link and place it in the `data` directory.
+2. [Download the dataset](https://physionet.org/content/ecg-arrhythmia/1.0.0/) from the provided link and place it in the `dataset` directory.
 3. Install the required dependencies mentioned.
 4. Run the Python scripts or Jupyter notebooks in the `notebooks` directory, respectively.
 
